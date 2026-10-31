@@ -33,7 +33,9 @@ A team-built prototype that maps London investors and matches them to a founder'
 - Helped build the prototype with the team.
 - Contributed to the product presentation, pitch materials and demo preparation.
 
-The team project is RaiseLondon, originally hosted by minthantkyaw28. This portfolio credits the shared project and does not claim that I independently built every feature. My repository copies remain private; this page is the public account of my contribution.
+The team project is RaiseLondon, originally hosted by minthantkyaw28. This portfolio credits the shared project and does not claim that I independently built every feature. My public copy includes the project code, pitch deck and scripts.
+
+[Raise repository on my GitHub](https://github.com/yonghwa11701-hash/raise-vc)
 
 ## What I bring to a team
 
