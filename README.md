@@ -23,7 +23,7 @@ I participated in a surgical computer vision project and was a top pitcher at th
 - Worked on the computer vision project with the team.
 - Pitched the project and explained its clinical relevance.
 
-The XR Labs repositories remain private. No challenge data, code, model weights, evaluation results or confidential technical details are published here.
+The XR Labs repositories were deleted after event. No challenge data, code, model weights, evaluation results or confidential technical details are published here.
 
 ## Raise — Lovable Buildathon
 
